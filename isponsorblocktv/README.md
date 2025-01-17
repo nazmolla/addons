@@ -2,7 +2,7 @@
 
 _Skip sponsor segments in YouTube videos playing on a compatible YouTube TV device_
 
-[iSponsorBlockTV](https://github.com/dmunozv04/iSponsorBlockTV)
+[iSponsorBlockTV](https://github.com/nazmolla/iSponsorBlockTV)
 
 ![Supports aarch64 Architecture][aarch64-shield]
 ![Supports amd64 Architecture][amd64-shield]
